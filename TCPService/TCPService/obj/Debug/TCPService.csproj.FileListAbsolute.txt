@@ -1,0 +1,5 @@
+C:\FSE\Assignment_21\ServiceProject\TCPService\TCPService\TCPService\bin\TCPService.dll.config
+C:\FSE\Assignment_21\ServiceProject\TCPService\TCPService\TCPService\bin\TCPService.dll
+C:\FSE\Assignment_21\ServiceProject\TCPService\TCPService\TCPService\bin\TCPService.pdb
+C:\FSE\Assignment_21\ServiceProject\TCPService\TCPService\TCPService\obj\Debug\TCPService.dll
+C:\FSE\Assignment_21\ServiceProject\TCPService\TCPService\TCPService\obj\Debug\TCPService.pdb
